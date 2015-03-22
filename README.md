@@ -1,7 +1,7 @@
 # Equal Heights Directive.
 =====================================
 
-This is a Angular directive that sets the same height on elements in the same row. It is designed to work with the Twitter Bootstrap grid but it can be easily adjusted to any grid system or html structure.
+This is a Angular directive that sets the same height on elements in the same row. It is designed to work with the Twitter Bootstrap grid but it can be easily adjusted to any grid system or html structure. By default elements inside grid columns have to be in a wrapping element which height is checked and then set accordingly to the highest element.
 
 You can see an example [here](http://codepen.io/Emnalyeriar/pen/gbZqjz).
 
